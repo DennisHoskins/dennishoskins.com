@@ -1,0 +1,9 @@
+{
+  "title" : "Apex Graphics",
+  "subtitle" : "Website Design and Development",
+  "url" : "apex_graphics",
+  "img" : "apex_graphics.png",
+  "links" : [{"url" : "web/apexgraphics.com", "text" : "Apex Graphics"}],
+  "skills" : "HTML,CSS,JavaScript,PHP",
+  "details" : "The Apex Graphics website features a clean and professional design that reflects their longstanding reputation for high-quality printing services.<br><br>The layout communicates their dedication to customer satisfaction and innovation and the company's global reach, while providing an intuitive user experience for potential clients to explore their offerings."
+}

@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  overflow: hidden;
+  background: rgb(117 108 255);
+}
+
+body main,
+body drh-navbar,
+body drh-code { opacity: 0; }
+
+body.ready { background-image: linear-gradient(90deg, rgb(117 108 255) 0%, rgb(106 187 195) 35%, rgba(0, 212, 255, 1) 100%); }
+
+body.ready main,
+body.ready drh-navbar,
+body.ready drh-code { animation: 0.25s ease-in forwards fade; }
+
+@keyframes fade { 100% { opacity: 1; } }
+
+main {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: #bcbcbc #eaeaea;
+  perspective: 1px;
+}
+
+body.ios main { perspective: 0; }
+
+main.no-scroll { overflow: hidden; }
+

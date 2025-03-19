@@ -1,0 +1,8 @@
+{
+  "title" : "AcuView",
+  "subtitle" : "Client Data Management and Information Portal",
+  "url" : "acuview",
+  "img" : "acuview.png",
+  "skills" : "C#,Blazor,HTML,CSS,JavaScript,SQL,MS Azure,MS Identity",
+  "details" : "AcuView delivers real-time visibility into energy sector operations, connecting managers and stakeholders to crucial project intelligence through an intuitive online interface.<br><br>Built with HTML, CSS, JavaScript, C#, and the versatile Blazor framework, this comprehensive platform revolutionizes how energy professionals monitor and manage their workflows. Secured with Microsoft Identity, AcuView centralizes projects, jobs, work requests, orders, inspections, and documentation into one cohesive ecosystem that eliminates information silos."
+}

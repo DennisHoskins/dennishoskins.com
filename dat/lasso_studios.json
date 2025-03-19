@@ -1,0 +1,9 @@
+{
+  "title" : "Lasso Studios",
+  "subtitle" : "Website Design and Development",
+  "url" : "lasso_studios",
+  "img" : "lasso_studios.png",
+  "links" : [{"url" : "http://lassostudios.ca/", "text" : "lassostudios.ca"}],
+  "skills" : "HTML,CSS,JavaScript,PHP",
+  "details" : "I worked closely with the owner of Lasso Studios to create a website that serves as a direct showcase of the agency’s work in video, graphic design, and web development.<br><br>The layout is visually striking and dynamic, reflecting the creative quality Lasso delivers to its clients. The site functions not only as an effective portfolio but also as a reflection of the studio’s unique approach to design and storytelling."
+}

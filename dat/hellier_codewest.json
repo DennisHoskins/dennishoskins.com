@@ -1,0 +1,9 @@
+{
+  "title" : "Hellier/CodeWest",
+  "subtitle" : "Online Course Enrollment Platform",
+  "url" : "hellier_codewest",
+  "img" : "hellier_codewest.png",
+  "links" : [{"url" : "https://hellierenrollment.azurewebsites.net/", "text" : "Hellier"},{"url" : "https://codewestenrollment.azurewebsites.net/", "text" : "CodeWest"}],
+  "skills" : "C#,Blazor,HTML,CSS,JavaScript,MS Azure,MS Identity,PayPal",
+  "details" : "Hellier/CodeWest provide professional certification training for workers in the energy sector. I developed a desktop and mobile app that simplifies course enrollment by allowing users to browse available classes, sign up, and pay using a custom PayPal integration.<br><br>The app also enables managers to upload course and class details, making them instantly available on the site.<br><br>Built with C#, the Blazor framework, HTML, CSS, JavaScript, PayPal API, and Microsoft Identity integration, this system streamlines both the user experience and the administrative process, ensuring efficient class management and easy access to training."
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ugly",
+    "short_name": "ugly",
+    "icons": [
+        {
+            "src": "android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f7ff6a",
+    "background_color": "#f7ff6a",
+    "display": "standalone"
+}

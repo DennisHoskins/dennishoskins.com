@@ -1,0 +1,9 @@
+{
+  "title" : "Wicked Resume",
+  "subtitle" : "Resume and Cover Letter Builder",
+  "url" : "wicked_resume",
+  "img" : "wicked_resume.png",
+  "links" : [{"url" : "web/wickedresume.com/public_html", "text" : "Wicked Resume"}],
+  "skills" : "HTML,CSS,JavaScript,PHP,SQL",
+  "details" : "Wicked Resume is a customizable online resume and cover letter builder designed to help users tailor their applications for specific job positions.<br><br>Built with HTML, CSS, JavaScript, PHP, and MySQL, the platform allows people to create personalized profiles, store information about their skills, awards, certifications, and education, and generate multiple versions of their resume to suit different roles.<br><br>The system also features an admin dashboard that provides valuable analytics and user metrics, as well as a recruiter portal where recruiters can directly engage with applicants to offer feedback and guidance on improving their resumes and cover letters.<br><br> I worked with the project leads throughout the process to bring their vision to life, translating complex requirements into an intuitive and user-friendly experience."
+}

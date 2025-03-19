@@ -1,0 +1,8 @@
+{
+  "title" : "PangeaWeb",
+  "subtitle" : "Workforce Management Applications",
+  "url" : "pangeaweb",
+  "img" : "pangeaweb.png",
+  "skills" : "C#,Blazor,HTML,CSS,JavaScript,SQL,MS Azure,MS Identity",
+  "details" : "PangeaWeb bridges the gap between field operations and central systems, putting critical tools directly into the hands of contractors and field workers.<br><br>Powered by C#, the cool Blazor framework, HTML, CSS, and JavaScript, this responsive application replaced multiple legacy systems with a unified comprehensive solution. The interface allows thousands of daily users to report workplace hazards, track time and expenses, access documentation, complete surveys, and receive critical notifications—all without returning to the office.<br><br>Working with backend engineers, I created seamless connections between existing business rules systems and a custom frontend component library, while collaborating with management to navigate complex requirements from diverse stakeholders. The result is a streamlined workflow that keeps teams connected regardless of location."
+}

@@ -1,0 +1,9 @@
+{
+  "title" : "CakeMake",
+  "subtitle" : "Custom Bakery Ordering System",
+  "url" : "cakemake",
+  "img" : "cakemake.png",
+  "links" : [{"url" : "web/cakemake.com", "text" : "CakeMake"}],
+  "skills" : "HTML,CSS,JavaScript,PHP,SQL,Graphic Design,Illustration,Animation",
+  "details" : "CakeMake is a fun, interactive web app that lets users design their own customized cakes through a whimsical animated interface.<br><br>CakeMake guides users through the cake personalization process with the help of a trio of charming characters I created and brought to life—Mr. and Mrs. CakeMake and their adorable little dog, Pupcake. When you finish designing your perfect masterpiece, the order is sent, and tight integration with systems in the bakery department keep the bakery team in the loop. Let the celebration begin!<br><br>CakeMake is made from HTML, CSS, JavaScript, PHP, and MySQL, and blends extensive illustration, design, and animation work, all hand crafted to provide a unique and delighful user experience from start to finish."
+}

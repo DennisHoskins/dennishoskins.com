@@ -1,0 +1,10 @@
+{
+  "title" : "All Fired Up!",
+  "subtitle" : "Reservations and Business Management",
+  "url" : "all_fired_up",
+  "img" : "all_fired_up.png",
+  "skills" : "HTML,CSS,JavaScript,PHP,SQL,PayPal",
+  "details" : "This multi-layered web application serves everyone from first-time visitors to studio owners, each with their own tailored experience. Customers can reserve studio time, secure spots in popular classes, and plan memorable events, while also showcasing their artistic journey through customizable profiles. Studio managers access a dedicated portal to orchestrate daily operations, manage bookings, and keep content fresh. Meanwhile, the owners gain valuable business insights through a dedicated analytics dashboard that visualizes performance metrics in real-time. At the heart of the platform sits an interactive event calendar that captures the playful spirit of the studios themselves.<br><br>Crafted with HTML, CSS, JavaScript, PHP, and MySQL, and featuring a seamless custom PayPal payment gateway, the platform showcases extensive illustration and graphic design work, with particular attention to creating an intuitive, engaging user experience.<br><br>The owners and team at AFU! and I put our heads together and workshopped and refined this design over years. At its peak, with thousands of daily active users, and hundreds of thousands of dollars in PayPal transactions, the system was as essential to the All Fired Up! experience as the clay and kilns."
+}
+
+

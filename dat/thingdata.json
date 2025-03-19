@@ -1,0 +1,8 @@
+{
+  "title" : "ThingData",
+  "subtitle" : "Real-Time Inventory and Personnel Management",
+  "url" : "thingdata",
+  "img" : "thingdata.png",
+  "skills" : "HTML,CSS,JavaScript,PHP,SQL",
+  "details" : "ThingData keeps your organization's pulse visible at every moment.<br><br>This real-time platform transforms warehousing, inventory, and distribution operations by connecting the three critical elements of logistics: people, places, and things.<br><br>When anything changes anywhere in your supply chain, ThingData ensures everyone who needs to know is informed immediately, shifting your team from reactive firefighting to proactive problem-solving.<br><br>Developed using HTML, CSS, JavaScript, PHP and MySQL, the system's responsive design adapts intelligently across devices, delivering precisely the right information to each user based on their context and needs. The platform's distributed architecture allows for seamless scaling through multiple communicating instances, handling everything from startup operations to enterprise-level logistics networks without missing a beat."
+}

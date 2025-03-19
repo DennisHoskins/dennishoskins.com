@@ -1,0 +1,9 @@
+{
+  "title" : "Wiser Advisor",
+  "subtitle" : "Website Design and Development",
+  "url" : "wiser_advisor",
+  "img" : "wiser_advisor.png",
+  "links" : [{"url" : "web/wiseradvisor.com", "text" : "Wiser Advisor"}],
+  "skills" : "HTML,CSS,JavaScript,PHP",
+  "details" : "For the Wiser Adviser Group project, I developed a comprehensive website that effectively communicates the company's unique position in financial adviser training and development.<br><br>Working closely with the business owner, I crafted a professional online presence that highlights their 25+ years of industry expertise and specialized training programs. The site clearly articulates how Wiser Adviser helps financial professionals accelerate their career growth while improving their institutions' profitability.<br><br>Built using HTML, CSS, JavaScript, and PHP, the website features responsive design elements that ensure seamless functionality across all devices. I implemented clean navigation and information hierarchy to guide visitors through the company's service offerings, credentials, and track record of delivering double-digit sales improvements. The collaborative development process with the business owner ensured the final product accurately represented their vision and business goals while meeting modern web standards."
+}

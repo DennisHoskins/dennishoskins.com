@@ -1,0 +1,9 @@
+{
+  "title" : "Pioneer Masonry",
+  "subtitle" : "Website Design and Development",
+  "url" : "pioneer_masonry",
+  "img" : "pioneer_masonry.png",
+  "links" : [{"url" : "https://pioneermasonry.ca/", "text" : "pioneermasonry.ca"}],
+  "skills" : "HTML,CSS,JavaScript,PHP",
+  "details" : "The Pioneer Masonry website conveys the strength and craftsmanship of their stone and brickwork.<br><br>Focused on their service areas in Georgian Bluffs and Grey Bruce County, the design reflects the company’s quality and expertise in masonry, with a straightforward, visually appealing layout that emphasizes their extensive work on exteriors, interiors, and hardscapes."
+}
